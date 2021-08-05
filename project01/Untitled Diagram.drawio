@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T02:04:06.533Z" agent="5.0 (Windows)" etag="Hw_bQYdEPlkV6qYyqiWS" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T02:06:08.490Z" agent="5.0 (Windows)" etag="es88F2nUHy8mz40xws4X" version="14.9.4" type="github">
   <diagram id="SoaL3gLZ2YO1JH6Mpvok" name="Page-1">
     <mxGraphModel dx="1422" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="140" width="80" height="360" as="geometry" />
         </mxCell>
         <mxCell id="mTiEajPiZR37RKjkDfnB-1" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;Web UI Loader 架构框图&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="300" y="50" width="230" height="60" as="geometry" />
+          <mxGeometry x="285" y="70" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mTiEajPiZR37RKjkDfnB-4" value="系统总线（本地【Spring Container】，远程【注册中心】）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="720" height="40" as="geometry" />
