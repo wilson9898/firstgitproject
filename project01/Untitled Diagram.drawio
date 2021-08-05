@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T01:09:05.343Z" agent="5.0 (Windows)" etag="Mw3eGJ5JF35cI7HrV4eY" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T01:27:55.256Z" agent="5.0 (Windows)" etag="jxP-FDQklF8ArqWgCa6m" version="14.9.4" type="github">
   <diagram id="SoaL3gLZ2YO1JH6Mpvok" name="Page-1">
     <mxGraphModel dx="1422" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,6 +65,18 @@
         </mxCell>
         <mxCell id="mTiEajPiZR37RKjkDfnB-25" value="框架管理工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mTiEajPiZR37RKjkDfnB-23">
           <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mTiEajPiZR37RKjkDfnB-26" value="数据访问" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mTiEajPiZR37RKjkDfnB-27" value="日志服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mTiEajPiZR37RKjkDfnB-28" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mTiEajPiZR37RKjkDfnB-29" value="加密服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
