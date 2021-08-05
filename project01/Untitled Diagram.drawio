@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T00:49:32.713Z" agent="5.0 (Windows)" etag="pWxqDuN7XOSsdyxqufMX" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T00:50:42.853Z" agent="5.0 (Windows)" etag="yzArgfTJkmDHCqtkLv7X" version="14.9.4" type="github">
   <diagram id="SoaL3gLZ2YO1JH6Mpvok" name="Page-1">
     <mxGraphModel dx="1422" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3pJKEMpyGUiEuK4JpZSY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="120" width="80" height="230" as="geometry" />
+        <mxCell id="3pJKEMpyGUiEuK4JpZSY-1" value="Web UI Loader" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="80" height="230" as="geometry" />
         </mxCell>
         <mxCell id="3pJKEMpyGUiEuK4JpZSY-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3pJKEMpyGUiEuK4JpZSY-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3pJKEMpyGUiEuK4JpZSY-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3pJKEMpyGUiEuK4JpZSY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="120" width="80" height="230" as="geometry" />
+          <mxGeometry x="600" y="120" width="80" height="230" as="geometry" />
         </mxCell>
         <mxCell id="mTiEajPiZR37RKjkDfnB-1" value="&lt;div&gt;Web UI Loader 架构框图&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="50" width="160" height="40" as="geometry" />
