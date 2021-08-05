@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T07:05:01.096Z" agent="5.0 (Windows)" etag="_L2NOoyvu8FWJjbdiKgO" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T07:05:43.875Z" agent="5.0 (Windows)" etag="cp3hOzkkfumJmYPmXyho" version="14.9.4" type="github">
   <diagram id="2KZP3WQjiVfuuQElWDdq" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-49" value="登录认证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xj8XkFaHbDPTedQxHf9u-18">
           <mxGeometry x="13.75" y="290" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xj8XkFaHbDPTedQxHf9u-50" value="页面设计器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xj8XkFaHbDPTedQxHf9u-18">
+          <mxGeometry x="112.5" y="290" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-26" value="数据访问" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="640" width="50" height="110" as="geometry" />
