@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T01:27:55.256Z" agent="5.0 (Windows)" etag="jxP-FDQklF8ArqWgCa6m" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T01:30:06.430Z" agent="5.0 (Windows)" etag="12Y_J-Jzm3fKx9ia04Fw" version="14.9.4" type="github">
   <diagram id="SoaL3gLZ2YO1JH6Mpvok" name="Page-1">
     <mxGraphModel dx="1422" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,12 @@
         </mxCell>
         <mxCell id="mTiEajPiZR37RKjkDfnB-29" value="加密服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mTiEajPiZR37RKjkDfnB-30" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mTiEajPiZR37RKjkDfnB-31" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="610" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
