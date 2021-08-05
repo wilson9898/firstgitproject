@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T02:02:13.854Z" agent="5.0 (Windows)" etag="bomBQh6skizwW155z4B6" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T02:02:52.532Z" agent="5.0 (Windows)" etag="MFx304WOFhsBNLsGiePW" version="14.9.4" type="github">
   <diagram id="SoaL3gLZ2YO1JH6Mpvok" name="Page-1">
     <mxGraphModel dx="1422" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="mTiEajPiZR37RKjkDfnB-1" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;Web UI Loader 架构框图&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="300" y="50" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-4" value="系统总线（本地【Spring Container】，远程【注册中心】）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-4" value="系统总线（本地【Spring Container】，远程【注册中心】）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="720" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mTiEajPiZR37RKjkDfnB-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
@@ -81,37 +81,37 @@
         <mxCell id="mTiEajPiZR37RKjkDfnB-41" value="应用管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mTiEajPiZR37RKjkDfnB-23">
           <mxGeometry x="25" y="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-26" value="数据访问" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-26" value="数据访问" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-27" value="日志服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-27" value="日志服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-28" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-28" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="190" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-29" value="加密服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-29" value="加密服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-30" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-30" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-31" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-31" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-32" value="系统框架接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-32" value="系统框架接口层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-33" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-33" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="490" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-42" value="&lt;div&gt;密钥、证书管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-42" value="&lt;div&gt;密钥、证书管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="570" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-43" value="对象存储管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-43" value="对象存储管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="640" y="640" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mTiEajPiZR37RKjkDfnB-44" value="任务调度器" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="mTiEajPiZR37RKjkDfnB-44" value="任务调度器" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="710" y="640" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
