@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T06:38:32.056Z" agent="5.0 (Windows)" etag="5zCuQTmrILEvzmSGCjGe" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T06:39:05.942Z" agent="5.0 (Windows)" etag="IjcwfG5XgJRrTURcMM2m" version="14.9.4" type="github">
   <diagram id="2KZP3WQjiVfuuQElWDdq" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,18 +12,6 @@
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-3" value="系统总线（本地【Spring Container】，远程【注册中心】）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="720" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xj8XkFaHbDPTedQxHf9u-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="140" width="170" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="xj8XkFaHbDPTedQxHf9u-10" value="业务组件 B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="xj8XkFaHbDPTedQxHf9u-4">
-          <mxGeometry x="51" y="20" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="xj8XkFaHbDPTedQxHf9u-11" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="140" width="170" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="xj8XkFaHbDPTedQxHf9u-37" value="业务组件 B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="xj8XkFaHbDPTedQxHf9u-11">
-          <mxGeometry x="50" y="20" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-18" value="" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;fillColor=#99FFFF;swimlaneFillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="590" y="140" width="170" height="360" as="geometry">
