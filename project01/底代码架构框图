@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T06:45:33.536Z" agent="5.0 (Windows)" etag="tH0sT88GXXhhQrOp26KI" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T06:45:46.835Z" agent="5.0 (Windows)" etag="w89Fy5tBOzSx2b4t_tSN" version="14.9.4" type="github">
   <diagram id="2KZP3WQjiVfuuQElWDdq" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,13 +73,13 @@
           <mxGeometry x="710" y="640" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-38" value="Web 菜单装载(UI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-39" value="菜单执行(UI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-40" value="页面执行（UI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="445" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
