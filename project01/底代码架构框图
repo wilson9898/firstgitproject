@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T06:58:56.474Z" agent="5.0 (Windows)" etag="rf2Des9Rgt9as6DeraTJ" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T07:01:04.411Z" agent="5.0 (Windows)" etag="SXJUHq3cWrYYZEDgNtBx" version="14.9.4" type="github">
   <diagram id="2KZP3WQjiVfuuQElWDdq" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="xj8XkFaHbDPTedQxHf9u-1" value="低代码运行平台" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontSize=16;labelBackgroundColor=none;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="80" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="xj8XkFaHbDPTedQxHf9u-2" value="&lt;div style=&quot;font-size: 19px&quot;&gt;Web 开发平台架构框图&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="xj8XkFaHbDPTedQxHf9u-2" value="&lt;div style=&quot;font-size: 19px&quot;&gt;Web 低代码开发平台框图&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="285" y="70" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-3" value="系统总线（本地【Spring Container】，远程【注册中心】）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
@@ -78,7 +78,7 @@
         <mxCell id="xj8XkFaHbDPTedQxHf9u-39" value="菜单执行(UI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xj8XkFaHbDPTedQxHf9u-40" value="页面执行（UI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xj8XkFaHbDPTedQxHf9u-40" value="页面事件（UI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="140" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-41" value="页面配置服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
