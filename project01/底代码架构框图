@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T06:45:46.835Z" agent="5.0 (Windows)" etag="w89Fy5tBOzSx2b4t_tSN" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T06:48:34.926Z" agent="5.0 (Windows)" etag="nl19--_wcb3jJfFsIlHp" version="14.9.4" type="github">
   <diagram id="2KZP3WQjiVfuuQElWDdq" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,15 @@
         </mxCell>
         <mxCell id="xj8XkFaHbDPTedQxHf9u-40" value="页面执行（UI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xj8XkFaHbDPTedQxHf9u-41" value="UI 查询服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xj8XkFaHbDPTedQxHf9u-42" value="通用数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xj8XkFaHbDPTedQxHf9u-43" value="定制数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
